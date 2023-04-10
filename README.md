@@ -21,3 +21,7 @@ This is an open-source project, and we welcome contributions from the community.
 - [Semantic HTML5 Markup](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Contributors
+- [Kalungi Rasuli](https://github.com/kalungirasuli)
+- [Stuart Muyambi](https://github.com/stuartmuyambi)
